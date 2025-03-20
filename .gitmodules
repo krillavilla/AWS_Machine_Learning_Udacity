@@ -1,0 +1,6 @@
+[submodule "Bike_Sharing_Project"]
+	path = Bike_Sharing_Project
+	url = https://github.com/krillavilla/Bike_Sharing_Project.git
+[submodule "Developing-ML-Workflow"]
+	path = Developing-ML-Workflow
+	url = https://github.com/krillavilla/Developing-ML-Workflow.git
