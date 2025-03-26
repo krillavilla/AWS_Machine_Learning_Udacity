@@ -4,6 +4,3 @@
 [submodule "Developing-ML-Workflow"]
 	path = Developing-ML-Workflow
 	url = https://github.com/krillavilla/Developing-ML-Workflow.git
-[submodule "Deploying_MLmodel_CloudApp_using_FastAPI"]
-	path = Deploying_MLmodel_CloudApp_using_FastAPI
-	url = https://github.com/krillavilla/Deploying_MLmodel_CloudApp_using_FastAPI.git
